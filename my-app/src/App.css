@@ -1,0 +1,21 @@
+.logoStarwars {
+  width: 100px;
+}
+.tamaño {
+  width: 25%;
+}
+.cards {
+  width: 25%;
+}
+.icon {
+  position: relative;
+  left: 63px;
+}
+.icon2 {
+  position: relative;
+  left: 40px;
+}
+.title {
+  position: relative;
+  left: 99px;
+}
